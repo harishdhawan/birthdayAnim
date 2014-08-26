@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
+        <meta name="ItemCount" content="1"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>hbtunepl</title>
+    </head>
+    <body>
+        <seq>
+            <media src="C:\Users\harish\Documents\NetBeansProjects\JavaApplication1\src\javaapplication1\Happy_Birthday.mp3" tid="{719C908C-ECD2-452D-8778-13B7BF79203B}"/>
+            <media src="C:\Users\harish\Documents\NetBeansProjects\JavaApplication1\src\javaapplication1\Happy_Birthday.mp3"/>
+	    <media src="C:\Users\harish\Documents\NetBeansProjects\JavaApplication1\src\javaapplication1\Happy_Birthday.mp3"/>
+	    <media src="C:\Users\harish\Documents\NetBeansProjects\JavaApplication1\src\javaapplication1\Happy_Birthday.mp3"/>
+        </seq>
+    </body>
+</smil>
